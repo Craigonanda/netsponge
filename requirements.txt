@@ -1,0 +1,8 @@
+# Python dependencies
+rich>=13.0
+
+# External tools (install separately via apt, not pip):
+# nmap
+# arp-scan
+# masscan
+# tcpdump
