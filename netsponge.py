@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-NETSPONGE - Network Scan Tool (fixed)
+NETSPONGE - Network Scan Tool 
 
 Interactive terminal tool using Rich. Features:
 - persistent logging to ~/network_scans/netsponge.log
